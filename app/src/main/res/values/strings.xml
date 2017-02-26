@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Blitz</string>
+    <string name="title_activity_add_customers">AddCustomers</string>
+    <string name="title_activity_edit_customer">EditCustomer</string>
+
+    <string-array name="status_options">
+        <item>In</item>
+        <item>Out</item>
+    </string-array>
+
+    <string name="arvin" translatable="false">myfonts/arvin.ttf</string>
+</resources>
